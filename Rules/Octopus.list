@@ -1,6 +1,7 @@
 # NAME: Octopus
-# DESCRIPTION: 八达通专属分流规则
+# DESCRIPTION: 香港八达通分流规则
 
+# 官方域名
 HOST-SUFFIX,octopus.com.hk,Octopus
 HOST-SUFFIX,octopus-cards.com,Octopus
 HOST-SUFFIX,octopuscards.com,Octopus
@@ -9,5 +10,6 @@ HOST-SUFFIX,octopushk.link,Octopus
 HOST-SUFFIX,oepay.com.hk,Octopus
 HOST-SUFFIX,octopusrewards.com.hk,Octopus
 
-# 实测补充
+# 第三方关联接口
 HOST,octopus.queue-it.net,Octopus
+HOST,octopus.data.adobedc.net,Octopus

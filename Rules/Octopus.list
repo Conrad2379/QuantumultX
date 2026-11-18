@@ -1,0 +1,10 @@
+# NAME: Octopus
+# DESCRIPTION: 八达通分流规则
+
+HOST-SUFFIX,octopus.com.hk,Octopus
+HOST-SUFFIX,octopus-cards.com,Octopus
+HOST-SUFFIX,octopuscards.com,Octopus
+HOST-SUFFIX,online-octopus.com,Octopus
+HOST-SUFFIX,octopushk.link,Octopus
+HOST-SUFFIX,oepay.com.hk,Octopus
+HOST-SUFFIX,octopusrewards.com.hk,Octopus

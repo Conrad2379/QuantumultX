@@ -1,13 +1,6 @@
 # NAME: HSBCHK
-# DESCRIPTION: 汇丰香港及Reward+分流规则
+# DESCRIPTION: 汇丰香港分流规则
 
-# 香港专属域名
 HOST-SUFFIX,hsbc.com.hk,HSBCHK
-HOST-SUFFIX,hsbcnet.com.hk,HSBCHK
-
-# 汇丰集团关联服务
-HOST-SUFFIX,hsbcapi.com,HSBCHK
-HOST-SUFFIX,hsbcdynamic.com,HSBCHK
-HOST-SUFFIX,mobile.hsbc,HSBCHK
-HOST-SUFFIX,myhsbc.com,HSBCHK
-HOST-SUFFIX,cms.hsbc.com,HSBCHK
+HOST,hsbc.edge.sdk.awswaf.com,HSBCHK
+HOST,c-hsbc.lytics.io,HSBCHK

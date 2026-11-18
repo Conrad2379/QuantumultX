@@ -1,0 +1,6 @@
+# NAME: ZABank
+# DESCRIPTION: 众安银行分流规则
+
+HOST-SUFFIX,za.group,ZABank
+HOST-SUFFIX,zainvest.group,ZABank
+HOST-SUFFIX,zajourney.com,ZABank

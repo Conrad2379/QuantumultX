@@ -1,0 +1,4 @@
+# NAME: CSL
+# DESCRIPTION: 香港csl运营商分流规则
+
+HOST-SUFFIX,hkcsl.com,CSL

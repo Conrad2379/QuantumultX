@@ -1,5 +1,12 @@
 # NAME: BOCHK
-# DESCRIPTION: 中国银行（香港）专属分流规则
+# DESCRIPTION: 中银香港专属分流规则
 
+# 官方域名
 HOST-SUFFIX,bochk.com,BOCHK
+
+# 补充域名（尚未独立验证）
 HOST-SUFFIX,bochkonline.com,BOCHK
+
+# 实测发现的关联接口
+HOST,bochk01.etdsinfo.com,BOCHK
+HOST,bochk02.etdsinfo.com,BOCHK
